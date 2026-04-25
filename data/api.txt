@@ -1,0 +1,2 @@
+Crypto Fear & Greed Index
+https://api.alternative.me/fng/?limit=0&format=csv
